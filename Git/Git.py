@@ -8,3 +8,4 @@
 # git diff
 # git config --global user.email "
 # git config --global "user.name" "Moses Gitau"
+# git remote add origin https://github.com/JiNXxo/Coding-Journey.git
