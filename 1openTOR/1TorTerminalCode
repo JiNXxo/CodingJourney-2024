@@ -1,0 +1,12 @@
+oldwiz@oldwiz-RS-H311D4:~/Desktop$ ls
+tor-browser-linux-x86_64-14.0.4
+oldwiz@oldwiz-RS-H311D4:~/Desktop$ cd tor-browser-linux-x86_64-14.0.4/
+oldwiz@oldwiz-RS-H311D4:~/Desktop/tor-browser-linux-x86_64-14.0.4$ ls
+tor-browser
+oldwiz@oldwiz-RS-H311D4:~/Desktop/tor-browser-linux-x86_64-14.0.4$ cd tor-browser/
+oldwiz@oldwiz-RS-H311D4:~/Desktop/tor-browser-linux-x86_64-14.0.4/tor-browser$ ls
+Browser  start-tor-browser.desktop
+oldwiz@oldwiz-RS-H311D4:~/Desktop/tor-browser-linux-x86_64-14.0.4/tor-browser$ ./start-tor-browser.desktop 
+Launching './Browser/start-tor-browser --detach'...
+oldwiz@oldwiz-RS-H311D4:~/Desktop/tor-browser-linux-x86_64-14.0.4/tor-browser$ ^C
+oldwiz@oldwiz-RS-H311D4:~/Desktop/tor-browser-linux-x86_64-14.0.4/tor-browser$ 
